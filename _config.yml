@@ -282,6 +282,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _academicservice
+  - scope:
+      path: ""
+      type: academicservice
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
