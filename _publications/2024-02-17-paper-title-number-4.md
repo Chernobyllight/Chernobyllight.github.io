@@ -1,5 +1,6 @@
 ---
 title: "Pluggable Style Representation Learning for Multi-Style Transfer"
+Author: Hongda Liu
 collection: publications
 category: conferences
 excerpt: "**ACCV 2024**<br/><img src='/images/SaMST.png'>"
