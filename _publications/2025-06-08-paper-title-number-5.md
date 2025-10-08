@@ -10,4 +10,3 @@ paperurl: 'https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SaMam_Style
 citation: #
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
