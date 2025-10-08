@@ -2,7 +2,7 @@
 title: "SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer"
 collection: publications
 category: conferences
-permalink: 'https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html'
+permalink: #
 excerpt: #
 date: 2025-06-01
 venue: 'CVPR 2025 (Highlight)'
