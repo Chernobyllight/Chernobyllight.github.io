@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Hongda Liu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Hongda Liu (Claude)"
   pronouns         : # example: "she/her"  
   bio              : "Researcher of Computer Vision (Low-level Vision)"
-  location         : "Shenzhen/Chengdu, China"
+  location         : "Shenzhen, China"
   employer         : "Sun Yat-sen University"
   uri              : #
   email            : "liuhd36@mail2.sysu.edu.cn" 
