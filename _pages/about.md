@@ -57,6 +57,17 @@ My current research interests include low-level vision, specifically image/video
       <a href="https://github.com/Chernobyllight/ReDSR">[code]</a>
     </div>
   </div>
+
+
+  <div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="/images/SFLAM.png" alt="ReDSR" style="width: 300px; height: 180px;" >
+    <div>
+      <strong>Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning</strong><br/>
+      <span style="color: red;"><em>Arxiv 2024</em></span><br/>
+      Xianke Qiang, <strong>Hongda Liu</strong>, Xinran Zhang, Zheng Chang, Ying-Chang Liang<br/>
+      <a href="https://arxiv.org/abs/2504.09114">[paper]</a> 
+    </div>
+  </div>
   
 </div>
 
