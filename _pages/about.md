@@ -23,7 +23,7 @@ My current research interests include low-level vision, specifically image/video
 
 
 
-<div style="display: flex; flex-direction: column; gap: 45px;">
+<div style="display: flex; flex-direction: column; gap: 42px;">
   
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="/images/samam2.png" alt="SaMam" style="width: 300px; height: 180px;" >
@@ -81,3 +81,7 @@ My current research interests include low-level vision, specifically image/video
 - *2025.04 - 2025.07*, Tencent, [Platform and Content Group](https://topd.tencent.com/career/company/tencent/PCG), Shenzhen
   - Computer Vision Algorithm Engineer (image/video generation and editing)
  
+
+
+- *2025.07 - 2025.08*, Huawei Cloud, [Long Memory Service (LMS) Group](https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html), Chengdu
+  - AI Development Engineer
