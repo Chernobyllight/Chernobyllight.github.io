@@ -29,7 +29,7 @@ My current research interests include low-level vision, specifically image/video
     <img src="/images/samam2.png" alt="SaMam" style="width: 250px;">
     <div>
       <strong>SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer</strong><br/>
-      <span style="color: red;"><em>CVPR</em></span><br/>
+      <span style="color: red;"><em>CVPR 2025 Highlight</em></span><br/>
       <strong>Hongda Liu</strong><br/>
       <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html">[paper]</a> 
       <a href="https://github.com/Chernobyllight/SaMam">[code]</a>
@@ -40,6 +40,10 @@ My current research interests include low-level vision, specifically image/video
     <img src="/images/SaMST.png" alt="SaMST" style="width: 250px;">
     <div>
       <strong>Pluggable Style Representation Learning for Multi-Style Transfer</strong>
+      <span style="color: red;"><em>ACCV 2024</em></span><br/>
+      <strong>Hongda Liu</strong><br/>
+      <a href="https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html">[paper]</a> 
+      <a href="https://github.com/Chernobyllight/SaMST">[code]</a>
     </div>
   </div>
 </div>
