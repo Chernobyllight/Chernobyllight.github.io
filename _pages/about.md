@@ -22,7 +22,7 @@ My current research interests include low-level vision, specifically image/video
 
 - *2024.10*: :tada::tada: One paper ([SaMST](https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html)) was accepted by ACCV 2024.
 
-- *2024.03*: :tada::tada: As a member of the organizing committee, I organized NTIRE 2024 Stereo Image Super-Resolution Challenge [[Track 1 Constrained SR & Bicubic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17245)] & [[Track 2 Constrained SR & Realistic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17246)]. You can read our technical report [here](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html)
+- *2024.03*: :tada::tada: As a member of the organizing committee, I organized NTIRE 2024 Stereo Image Super-Resolution Challenge ([[Track 1 Constrained SR & Bicubic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17245)] & [[Track 2 Constrained SR & Realistic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17246)]). You can read our technical report [here](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html)
 
 
 ## :books: Publications
