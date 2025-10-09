@@ -13,3 +13,13 @@ Education
 ======
 * M.S. in Sun Yat-sen University (SYSU), 2026 (expected)
 * B.S. in University of Electronic Science and Technology of China (UESTC), 2023
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+  
