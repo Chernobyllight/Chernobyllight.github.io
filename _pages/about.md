@@ -28,8 +28,7 @@ My current research interests include low-level vision, specifically image/video
 </div> -->
 
 
-|  |  |
-|-------|----------|
+
 | <img src="/images/samam2.png" style="width: 300px;"> | SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer |
 | <img src="/images/SaMST.png" style="width: 300px;"> | Pluggable Style Representation Learning for Multi-Style Transfer |
 
