@@ -39,7 +39,7 @@ My current research interests include low-level vision, specifically image/video
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="/images/SaMST.png" alt="SaMST" style="width: 250px;">
     <div>
-      <strong>Pluggable Style Representation Learning for Multi-Style Transfer</strong>
+      <strong>Pluggable Style Representation Learning for Multi-Style Transfer</strong><br/>
       <span style="color: red;"><em>ACCV 2024</em></span><br/>
       <strong>Hongda Liu</strong><br/>
       <a href="https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html">[paper]</a> 
