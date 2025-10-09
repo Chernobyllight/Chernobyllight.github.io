@@ -18,8 +18,9 @@ My current research interests include low-level vision, specifically image/video
 
 ## :fire: News
 
-- *2025.02*: :tada::tada: One paper ([SaMam](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)) was accepted by CVPR 2025 (<font color=red>Highlight, top 3% among 13008 submisions</font>).
+- *2025.02*: :tada::tada: One paper ([SaMam](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)) was accepted by CVPR 2025 (<font color=red>Highlight, top 3%</font>).
 
+- *2024.10*: :tada::tada: One paper ([SaMST](https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html)) was accepted by ACCV 2024.
 
 
 ## :books: Publications
