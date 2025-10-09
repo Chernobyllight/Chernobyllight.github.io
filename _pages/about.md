@@ -23,7 +23,7 @@ My current research interests include low-level vision, specifically image/video
 
 
 
-<div style="display: flex; flex-direction: column; gap: 40px;">
+<div style="display: flex; flex-direction: column; gap: 45px;">
   
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="/images/samam2.png" alt="SaMam" style="width: 300px; height: 180px;" >
@@ -73,4 +73,5 @@ My current research interests include low-level vision, specifically image/video
 
 ## :computer: Internship
 
-* *2024.08 - 2024.12*, Huawei Cloud, [Physical Intelligence Lab](https://www.huaweicloud.com/lab/embodied-ai/about.html), Shenzhen
+- *2024.08 - 2024.12*, Huawei Cloud, [Physical Intelligence Lab](https://www.huaweicloud.com/lab/embodied-ai/about.html), Shenzhen
+  - Advisor: [Kaiwen Xue](https://scholar.google.com/citations?user=0mRilxMAAAAJ&hl=zh-EN)
