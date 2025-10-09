@@ -13,6 +13,8 @@ My current research interests include low-level vision, specifically image/video
 
 ## :book: Education
 
+* *2023.09 - 2026.06 (expected)*, M.S. in Sun Yat-sen University (SYSU)
+* *2019.09 - 2023.06*, B.S. in University of Electronic Science and Technology of China (UESTC)
 
 ## :fire: News
 
