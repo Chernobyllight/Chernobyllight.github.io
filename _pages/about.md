@@ -26,7 +26,7 @@ My current research interests include low-level vision, specifically image/video
 <div style="display: flex; flex-direction: column; gap: 16px;">
   
   <div style="display: flex; align-items: flex-start; gap: 20px;">
-    <img src="/images/samam2.png" alt="SaMam" style="width: 250px;">
+    <img src="/images/samam2.png" alt="SaMam" style="width: 300px; height: 200px;" >
     <div>
       <strong>SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer</strong><br/>
       <span style="color: red;"><em>CVPR 2025 Highlight</em></span><br/>
@@ -37,7 +37,7 @@ My current research interests include low-level vision, specifically image/video
   </div>
   
   <div style="display: flex; align-items: flex-start; gap: 20px;">
-    <img src="/images/SaMST.png" alt="SaMST" style="width: 250px;">
+    <img src="/images/SaMST.png" alt="SaMST" style="width: 300px; height: 200px;" >
     <div>
       <strong>Pluggable Style Representation Learning for Multi-Style Transfer</strong><br/>
       <span style="color: red;"><em>ACCV 2024</em></span><br/>
