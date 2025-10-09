@@ -13,7 +13,7 @@ My current research interests include low-level vision, specifically image/video
 
 ### :book: Education
 
-### News
+### :fire: News
 
 
 ### Publications
