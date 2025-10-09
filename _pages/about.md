@@ -21,7 +21,7 @@ My current research interests include low-level vision, specifically image/video
 
 ## :books: Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='/images/samam2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='/images/samam2.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer
