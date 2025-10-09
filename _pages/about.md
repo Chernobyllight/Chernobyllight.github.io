@@ -18,7 +18,9 @@ My current research interests include low-level vision, specifically image/video
 
 ## :fire: News
 
+
 - *2025.07*: :tada::tada: I was invited as a reviewer of Springer International Journal of Computer Vision (IJCV). Feel free to contact me for a peer review.
+
 
 - *2025.02*: :tada::tada: One paper ([SaMam](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)) was accepted by CVPR 2025 (<font color=red>Highlight, top 3%</font>).
 
