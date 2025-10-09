@@ -18,11 +18,13 @@ My current research interests include low-level vision, specifically image/video
 
 ## :fire: News
 
+- *2025.07*: :tada::tada: I was invited as a reviewer of Springer International Journal of Computer Vision (IJCV). Feel free to contact me for a peer review.
+
 - *2025.02*: :tada::tada: One paper ([SaMam](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)) was accepted by CVPR 2025 (<font color=red>Highlight, top 3%</font>).
 
 - *2024.10*: :tada::tada: One paper ([SaMST](https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html)) was accepted by ACCV 2024.
 
-- *2024.03*: :tada::tada: As a member of the organizing committee, I organized NTIRE 2024 Stereo Image Super-Resolution Challenge ([[Track 1 Constrained SR & Bicubic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17245)] & [[Track 2 Constrained SR & Realistic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17246)]). You can read our technical report [here](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html)
+- *2024.03*: :tada::tada: As a member of the organizing committee, I organized NTIRE 2024 Stereo Image Super-Resolution Challenge ([[Track 1 Constrained SR & Bicubic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17245)] & [[Track 2 Constrained SR & Realistic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17246)]). You can read our technical report [here](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html).
 
 
 ## :books: Publications
