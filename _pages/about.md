@@ -11,13 +11,14 @@ Hi! I am currently in my third year of pursuing a master degree at Sun Yat-sen U
 
 My current research interests include low-level vision, specifically image/video restoration, as well as image/video style transfer. Besides, I have extensive experience in image/video generation and editing.
 
-### :book: Education
-
-### :fire: News
+## :book: Education
 
 
-### Publications
+## :fire: News
 
 
-### Internship
+## :books: Publications
+
+
+## :computer: Internship
 
