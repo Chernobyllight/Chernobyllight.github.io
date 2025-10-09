@@ -39,13 +39,13 @@ My current research interests include low-level vision, specifically image/video
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="/images/samam2.png" alt="SaMam" style="width: 300px;">
     <div>
-      <strong>SaMam:</strong> Style-aware State Space Model for Arbitrary Image Style Transfer
+      <strong>SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer</strong>
     </div>
   </div>
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="/images/SaMST.png" alt="SaMST" style="width: 300px;">
     <div>
-      <strong>Pluggable Style Representation Learning:</strong> Multi-Style Transfer
+      <strong>Pluggable Style Representation Learning for Multi-Style Transfer</strong>
     </div>
   </div>
 </div>
