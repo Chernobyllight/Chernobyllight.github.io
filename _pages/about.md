@@ -22,18 +22,6 @@ My current research interests include low-level vision, specifically image/video
 ## :books: Publications
 
 
-<!-- <div style="display: flex; align-items: center;">
-  <img src="/images/samam2.png"  style="margin-right: 10px; width: 200px; " />
-  <p>SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer</p>
-</div> -->
-
-
-|  |  |
-|-------|----------|
-| <img src="/images/samam2.png" style="width: 300px;"> | SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer<br/>[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)] [[code](https://github.com/Chernobyllight/SaMam)] |
-| <img src="/images/SaMST.png" style="width: 300px;"> | Pluggable Style Representation Learning for Multi-Style Transfer |
-
-
 
 <div style="display: flex; flex-direction: column; gap: 16px;">
   <div style="display: flex; align-items: flex-start; gap: 20px;">
