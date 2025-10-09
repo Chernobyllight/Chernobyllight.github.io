@@ -58,7 +58,6 @@ My current research interests include low-level vision, specifically image/video
     </div>
   </div>
 
-
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="/images/SFLAM.png" alt="SFLAM" style="width: 300px; height: 180px;" >
     <div>
@@ -74,3 +73,4 @@ My current research interests include low-level vision, specifically image/video
 
 ## :computer: Internship
 
+* *2024.08 - 2024.12*, Huawei Cloud, [Physical Intelligence Lab](https://www.huaweicloud.com/lab/embodied-ai/about.html), Shenzhen
