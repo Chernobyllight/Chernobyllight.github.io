@@ -74,4 +74,10 @@ My current research interests include low-level vision, specifically image/video
 ## :computer: Internship
 
 - *2024.08 - 2024.12*, Huawei Cloud, [Physical Intelligence Lab](https://www.huaweicloud.com/lab/embodied-ai/about.html), Shenzhen
+  - Computer Vision Algorithm Engineer (3D Scene Alignment and Reconstruction)
   - Advisor: [Kaiwen Xue](https://scholar.google.com/citations?user=0mRilxMAAAAJ&hl=zh-EN)
+
+
+- *2025.04 - 2025.07*, Tencent, [Platform and Content Group](https://topd.tencent.com/career/company/tencent/PCG), Shenzhen
+  - Computer Vision Algorithm Engineer (image/video generation and editing)
+ 
