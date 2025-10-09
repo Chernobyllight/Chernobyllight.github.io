@@ -47,7 +47,16 @@ My current research interests include low-level vision, specifically image/video
     </div>
   </div>
 
-
+  <div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="/images/ReDSR.png" alt="ReDSR" style="width: 300px; height: 200px;" >
+    <div>
+      <strong>Preserving Full Degradation Details for Blind Image Super-Resolution</strong><br/>
+      <span style="color: red;"><em>Arxiv 2024</em></span><br/>
+      <strong>Hongda Liu</strong>, Longguang Wang, Ye Zhang, Kaiwen Xue, Shunbo Zhou, Yulan Guo<br/>
+      <a href="https://arxiv.org/abs/2407.01299">[paper]</a> 
+      <a href="https://github.com/Chernobyllight/ReDSR">[code]</a>
+    </div>
+  </div>
   
 </div>
 
