@@ -61,9 +61,5 @@ My current research interests include low-level vision, specifically image/video
 </div>
 
 
-* SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)] [[code](https://github.com/Chernobyllight/SaMam)]
-* Pluggable Style Representation Learning for Multi-Style Transfer [[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html)] [[code](https://github.com/Chernobyllight/SaMST)]
-* NTIRE 2024 Challenge on Stereo Image Super-Resolution: Methods and Results [[paper](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html)] [[track1](https://codalab.lisn.upsaclay.fr/competitions/17245)] [[track2](https://codalab.lisn.upsaclay.fr/competitions/17246)]
-
 ## :computer: Internship
 
