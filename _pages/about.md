@@ -23,7 +23,7 @@ My current research interests include low-level vision, specifically image/video
 
 
 
-<div style="display: flex; flex-direction: column; gap: 16px;">
+<div style="display: flex; flex-direction: column; gap: 40px;">
   
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="/images/samam2.png" alt="SaMam" style="width: 300px; height: 200px;" >
