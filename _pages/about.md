@@ -124,14 +124,7 @@ My current research interests include low-level vision, specifically image/video
 
 
 
-<br>
-		<br>
-		<div style="clear:both;">
-			<p align="right"><font size="2">
-				<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?t=tt&d=mvO0RzXnZn0OApNfE37xUBGWyegQ2Y3xvsmi8FA26Bo&cl=ffffff&w=a"></script>
-			</font></p>
-			<br/>
-		</div>
+
 
 
     
