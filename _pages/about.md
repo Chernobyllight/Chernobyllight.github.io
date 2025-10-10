@@ -111,10 +111,10 @@ My current research interests include low-level vision, specifically image/video
   - Advisor: [Kaiwen Xue](https://scholar.google.com/citations?user=0mRilxMAAAAJ&hl=zh-EN)
 
 
-- *2025.04 - 2025.07*, Tencent, [Platform and Content Group](https://topd.tencent.com/career/company/tencent/PCG), Shenzhen
+- *2025.04 - 2025.07*, Tencent, [Platform and Content Group](https://topd.tencent.com/career/company/tencent/PCG) (PCG), Shenzhen
   - Computer Vision Algorithm Engineer (image/video generation and editing)
  
 
 
-- *2025.07 - 2025.09*, Huawei Cloud, [Long Memory Service (LMS) Group](https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html), Chengdu
+- *2025.07 - 2025.09*, Huawei Cloud, [Long Memory Service Group](https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html) (LMS), Chengdu
   - AI Development Engineer (Large Language Model, Vector Database)
