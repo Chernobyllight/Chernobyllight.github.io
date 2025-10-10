@@ -21,7 +21,7 @@ My current research interests include low-level vision, specifically image/video
     <img src="/images/sysu.png" alt="sysu" style="width: 150px;" >
     <div>
       <em>2023.09 - 2026.06 (expected)</em><br/>
-      <a href="https://sysu-sail.net/">Spatial Artificial Intelligence Lab</a> (SAIL), School of Electronics and Communication Engineering, Sun Yat-sen University (SYSU)<br/>
+      <a href="https://sysu-sail.net/">Spatial Artificial Intelligence Lab</a> (SAIL), Sun Yat-sen University (SYSU)<br/>
       <strong>Master of Science (M.S.)</strong>
     </div>
   </div>
@@ -30,7 +30,7 @@ My current research interests include low-level vision, specifically image/video
     <img src="/images/uestc.png" alt="uestc" style="width: 150px;" >
     <div>
       <em>2019.09 - 2023.06</em><br/>
-      School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC)<br/>
+      University of Electronic Science and Technology of China (UESTC)<br/>
       <strong>Bachelor of Science (B.S.)</strong>
     </div>
   </div>
