@@ -17,7 +17,7 @@ My current research interests include low-level vision, specifically image/video
 
 <div style="display: flex; flex-direction: column; gap: 42px;">
   
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/sysu.png" alt="sysu" style="width: 150px;" >
     <div>
       <em>2023.09 - 2026.06 (expected)</em><br/>
@@ -25,22 +25,17 @@ My current research interests include low-level vision, specifically image/video
     </div>
   </div>
   
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/uestc.png" alt="uestc" style="width: 150px;" >
     <div>
       <em>2019.09 - 2023.06</em><br/>
       <strong>B.S. in University of Electronic Science and Technology of China (UESTC)</strong>
     </div>
   </div>
-
-
   
 </div>
 
 
-
-* *2023.09 - 2026.06 (expected)*, M.S. in Sun Yat-sen University (SYSU)
-* *2019.09 - 2023.06*, B.S. in University of Electronic Science and Technology of China (UESTC)
 
 ## :fire: News
 
@@ -61,7 +56,7 @@ My current research interests include low-level vision, specifically image/video
 
 <div style="display: flex; flex-direction: column; gap: 42px;">
   
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/samam2.png" alt="SaMam" style="width: 300px; height: 180px;" >
     <div>
       <strong>SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer</strong><br/>
@@ -72,7 +67,7 @@ My current research interests include low-level vision, specifically image/video
     </div>
   </div>
   
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/SaMST.png" alt="SaMST" style="width: 300px; height: 180px;" >
     <div>
       <strong>Pluggable Style Representation Learning for Multi-Style Transfer</strong><br/>
@@ -83,7 +78,7 @@ My current research interests include low-level vision, specifically image/video
     </div>
   </div>
 
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/ReDSR.png" alt="ReDSR" style="width: 300px; height: 180px;" >
     <div>
       <strong>Preserving Full Degradation Details for Blind Image Super-Resolution</strong><br/>
@@ -94,7 +89,7 @@ My current research interests include low-level vision, specifically image/video
     </div>
   </div>
 
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/SFLAM.png" alt="SFLAM" style="width: 300px; height: 180px;" >
     <div>
       <strong>Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning</strong><br/>
