@@ -122,7 +122,7 @@ My current research interests include low-level vision, specifically image/video
 
 
 	<br>
-		<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OtaTQk_Xf8Ojb0c-y-LZs6Evwj2QOXp7Mg9OE1z8OxM&cl=ffffff&w=a"></script>
+		<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=OtaTQk_Xf8Ojb0c-y-LZs6Evwj2QOXp7Mg9OE1z8OxM'></script>
 	<br/>
 
 
