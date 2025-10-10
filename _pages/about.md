@@ -13,6 +13,30 @@ My current research interests include low-level vision, specifically image/video
 
 ## :book: Education
 
+
+
+<div style="display: flex; flex-direction: column; gap: 42px;">
+  
+  <div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="/images/sysu.png" alt="SaMam" style="width: 300px;" >
+    <div>
+      <strong>*2023.09 - 2026.06 (expected)*, M.S. in Sun Yat-sen University (SYSU)</strong>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="/images/uestc.png" alt="SaMST" style="width: 300px;" >
+    <div>
+      <strong>*2019.09 - 2023.06*, B.S. in University of Electronic Science and Technology of China (UESTC)</strong>
+    </div>
+  </div>
+
+
+  
+</div>
+
+
+
 * *2023.09 - 2026.06 (expected)*, M.S. in Sun Yat-sen University (SYSU)
 * *2019.09 - 2023.06*, B.S. in University of Electronic Science and Technology of China (UESTC)
 
