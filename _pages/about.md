@@ -116,5 +116,5 @@ My current research interests include low-level vision, specifically image/video
  
 
 
-- *2025.07 - 2025.09*, Huawei Cloud, [Long Memory Service Group](https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html) (LMS), Chengdu
+- *2025.07 - 2025.09*, Huawei Cloud, [Long-term Memory Service Group](https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html) (LMS), Chengdu
   - AI Development Engineer (Large Language Model, Vector Database)
