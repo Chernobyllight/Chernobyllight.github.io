@@ -2,7 +2,7 @@
 title: "NTIRE 2024 Challenge on Stereo Image Super-Resolution: Methods and Results"
 collection: publications
 category: conferences
-excerpt: "Longguang Wang, Yulan Guo, Juncheng Li, **Hongda Liu**, Yang Zhao, Yingqian Wang, Zhi Jin, Shuhang Gu, Radu Timofte<br />**CVPR 2024 Workshop**<br/><img src='/images/ntire2024v4.png'>"
+excerpt: "Longguang Wang, Yulan Guo, Juncheng Li, **Hongda Liu**, Yang Zhao, Yingqian Wang, Zhi Jin, Shuhang Gu, Radu Timofte<br />**<font color=red>CVPR 2024 Workshop</font>**<br/><img src='/images/ntire2024v4.png'>"
 date: 2024-06-01
 venue: 'Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, Washington, America'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html'
