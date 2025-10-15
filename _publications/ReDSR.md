@@ -2,7 +2,7 @@
 title: "Preserving Full Degradation Details for Blind Image Super-Resolution"
 collection: publications
 category: conferences
-excerpt: "<em>**Hongda Liu**, Longguang Wang, Ye Zhang, Kaiwen Xue, Shunbo Zhou, Yulan Guo</em><br />**<font color=red>Arxiv 2024</font>**<br/><img src='/images/ReDSR.png'>"
+excerpt: "**<font color=red>Arxiv 2024</font>**<br/><em>**Hongda Liu**, Longguang Wang, Ye Zhang, Kaiwen Xue, Shunbo Zhou, Yulan Guo</em><br /><img src='/images/ReDSR.png'>"
 date: 2024-03-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2407.01299'
