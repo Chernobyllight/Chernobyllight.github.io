@@ -2,7 +2,7 @@
 title: "Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning"
 collection: publications
 category: conferences
-excerpt: "<em>Xianke Qiang, **Hongda Liu**, Xinran Zhang, Zheng Chang, Ying-Chang Liang</em><br />**<font color=red>Arxiv 2024</font>**<br/><img src='/images/SFLAM.png'>"
+excerpt: "**<font color=red>Arxiv 2024</font>**<br/><em>Xianke Qiang, **Hongda Liu**, Xinran Zhang, Zheng Chang, Ying-Chang Liang</em><br /><img src='/images/SFLAM.png'>"
 date: 2024-02-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2504.09114'
