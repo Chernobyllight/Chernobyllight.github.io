@@ -2,7 +2,7 @@
 title: "Pluggable Style Representation Learning for Multi-Style Transfer"
 collection: publications
 category: conferences
-excerpt: "<em>**Hongda Liu**, Longguang Wang, Weijun Guan, Ye Zhang, Yulan Guo</em><br />**<font color=red>ACCV 2024</font>**<br/><img src='/images/SaMST.png'>"
+excerpt: "**<font color=red>ACCV 2024</font>**<br/><em>**Hongda Liu**, Longguang Wang, Weijun Guan, Ye Zhang, Yulan Guo</em><br /><img src='/images/SaMST.png'>"
 date: 2024-12-01
 venue: 'Asian Conference on Computer Vision (ACCV), Hanoi, Vietnam'
 paperurl: 'https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html'
