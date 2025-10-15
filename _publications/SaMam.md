@@ -2,7 +2,7 @@
 title: "SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer"
 collection: publications
 category: conferences
-excerpt: "<em>**Hongda Liu**, Longguang Wang, Ye Zhang, Ziru Yu, Yulan Guo</em><br />**<font color=red>CVPR 2025 Highlight</font>**<br/><img src='/images/samam2.png'>"
+excerpt: "**<font color=red>CVPR 2025 Highlight</font>**<br/><em>**Hongda Liu**, Longguang Wang, Ye Zhang, Ziru Yu, Yulan Guo</em><br /><img src='/images/samam2.png'>"
 date: 2025-06-01
 venue: 'Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, Tennessee, America'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html'
