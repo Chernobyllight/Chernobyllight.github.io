@@ -73,8 +73,8 @@ My current research interests include low-level vision, specifically image/video
     <img src="/images/SaMST.png" alt="SaMST" style="width: 300px; height: 180px;" >
     <div>
       <strong>Pluggable Style Representation Learning for Multi-Style Transfer</strong><br/>
-      <span style="color: red;"><em>ACCV 2024</em></span><br/>
-      <strong>Hongda Liu</strong>, Longguang Wang, Weijun Guan, Ye Zhang, Yulan Guo<br/>
+      <span style="color: red;">ACCV 2024</span><br/>
+      <em><strong>Hongda Liu</strong>, Longguang Wang, Weijun Guan, Ye Zhang, Yulan Guo</em><br/>
       <a href="https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html">[paper]</a> 
       <a href="https://github.com/Chernobyllight/SaMST">[code]</a>
     </div>
@@ -84,8 +84,8 @@ My current research interests include low-level vision, specifically image/video
     <img src="/images/ReDSR.png" alt="ReDSR" style="width: 300px; height: 180px;" >
     <div>
       <strong>Preserving Full Degradation Details for Blind Image Super-Resolution</strong><br/>
-      <span style="color: red;"><em>Arxiv 2024</em></span><br/>
-      <strong>Hongda Liu</strong>, Longguang Wang, Ye Zhang, Kaiwen Xue, Shunbo Zhou, Yulan Guo<br/>
+      <span style="color: red;">Arxiv 2024</span><br/>
+      <em><strong>Hongda Liu</strong>, Longguang Wang, Ye Zhang, Kaiwen Xue, Shunbo Zhou, Yulan Guo</em><br/>
       <a href="https://arxiv.org/abs/2407.01299">[paper]</a> 
       <a href="https://github.com/Chernobyllight/ReDSR">[code]</a>
     </div>
@@ -95,8 +95,8 @@ My current research interests include low-level vision, specifically image/video
     <img src="/images/SFLAM.png" alt="SFLAM" style="width: 300px; height: 180px;" >
     <div>
       <strong>Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning</strong><br/>
-      <span style="color: red;"><em>Arxiv 2024</em></span><br/>
-      Xianke Qiang, <strong>Hongda Liu</strong>, Xinran Zhang, Zheng Chang, Ying-Chang Liang<br/>
+      <span style="color: red;">Arxiv 2024</span><br/>
+      <em>Xianke Qiang, <strong>Hongda Liu</strong>, Xinran Zhang, Zheng Chang, Ying-Chang Liang</em><br/>
       <a href="https://arxiv.org/abs/2504.09114">[paper]</a> 
     </div>
   </div>
