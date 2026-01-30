@@ -112,7 +112,7 @@ My current research interests include low-level vision, specifically image/video
 
 
 - *2025.04 - 2025.07*, Tencent, [Platform and Content Group](https://topd.tencent.com/career/company/tencent/PCG) (PCG), Shenzhen
-  - Computer Vision Algorithm Engineer (image/video generation and editing)
+  - Computer Vision Algorithm Engineer (Image/Video Generation and Editing)
  
 
 - *2024.08 - 2024.12*, Huawei Cloud, [Physical Intelligence Lab](https://www.huaweicloud.com/lab/embodied-ai/about.html), Shenzhen
