@@ -41,9 +41,9 @@ My current research interests include low-level vision, specifically image/video
 
 ## :fire: News
 
+- *2026.03*: :tada::tada: One paper ([POSITION](https://chernobyllight.github.io/)) was accepted by TIP 2026.
 
 - *2025.07*: :tada::tada: I was invited to be a reviewer of International Journal of Computer Vision (IJCV). I am happy to serve as a peer reviewer for conferences/journals. Feel free to contact [me](mailto:liuhd36@mail2.sysu.edu.cn).
-
 
 - *2025.02*: :tada::tada: One paper ([SaMam](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)) was accepted by CVPR 2025 (<font color=red>Highlight, top 3%</font>).
 
