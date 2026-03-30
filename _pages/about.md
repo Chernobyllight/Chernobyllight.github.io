@@ -68,6 +68,9 @@ My current research interests include low-level vision, specifically image/video
       <a href="https://github.com/Chernobyllight/SaMam">[code]</a>
     </div>
   </div>
+
+
+
   
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/SaMST.png" alt="SaMST" style="width: 300px; height: 180px;" >
@@ -80,6 +83,24 @@ My current research interests include low-level vision, specifically image/video
     </div>
   </div>
 
+
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="/images/tip_teaserfig.png" alt="SaMST" style="width: 300px; height: 180px;" >
+    <div>
+      <strong>POSITION: Open World 3D Scene CAD Recomposition</strong><br/>
+      <span style="color: red;">TIP 2026</span><br/>
+      <em>Rongkun Yang, <strong>Hongda Liu</strong>, Yijun Chen, Sheng Ao, Yongjian Zhang, Longguang Wang, Kaiwen Xue, Shunbo Zhou, Yulan Guo</em><br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11456836">[paper]</a> 
+      <a href="https://github.com/yangrongkun/POSITION">[code]</a>
+    </div>
+  </div>
+
+  
+
+
+
+
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/ReDSR.png" alt="ReDSR" style="width: 300px; height: 180px;" >
     <div>
@@ -90,6 +111,8 @@ My current research interests include low-level vision, specifically image/video
       <a href="https://github.com/Chernobyllight/ReDSR">[code]</a>
     </div>
   </div>
+
+
 
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/SFLAM.png" alt="SFLAM" style="width: 300px; height: 180px;" >
