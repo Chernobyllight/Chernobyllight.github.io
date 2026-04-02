@@ -41,6 +41,8 @@ My current research interests include low-level vision, specifically image/video
 
 ## :fire: News
 
+- *2026.04*: :tada::tada: One paper ([SFLAM](https://arxiv.org/pdf/2504.09114?)) was accepted by TMC 2026.
+
 - *2026.03*: :tada::tada: One paper ([POSITION](https://ieeexplore.ieee.org/abstract/document/11456836)) was accepted by TIP 2026.
 
 - *2025.07*: :tada::tada: I was invited to be a reviewer of International Journal of Computer Vision (IJCV). I am happy to serve as a peer reviewer for conferences/journals. Feel free to contact [me](mailto:liuhd36@mail2.sysu.edu.cn).
