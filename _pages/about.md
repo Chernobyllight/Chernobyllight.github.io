@@ -59,6 +59,31 @@ My current research interests include low-level vision, specifically image/video
 
 
 <div style="display: flex; flex-direction: column; gap: 42px;">
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="/images/SFLAM.png" alt="SFLAM" style="width: 300px; height: 180px;" >
+    <div>
+      <strong>Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning</strong><br/>
+      <span style="color: red;">TMC 2026</span><br/>
+      <em>Xianke Qiang, <strong>Hongda Liu</strong>, Xinran Zhang, Zheng Chang, Ying-Chang Liang</em><br/>
+      <a href="https://arxiv.org/abs/2504.09114">[paper]</a> 
+    </div>
+  </div>
+
+  
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="/images/tip_teaserfig.png" alt="SaMST" style="width: 300px; height: 180px;" >
+    <div>
+      <strong>POSITION: Open World 3D Scene CAD Recomposition</strong><br/>
+      <span style="color: red;">TIP 2026</span><br/>
+      <em>Rongkun Yang, <strong>Hongda Liu</strong>, Yijun Chen, Sheng Ao, Yongjian Zhang, Longguang Wang, Kaiwen Xue, Shunbo Zhou, Yulan Guo</em><br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11456836">[paper]</a> 
+      <a href="https://github.com/yangrongkun/POSITION">[code]</a>
+    </div>
+  </div>
+  
+
   
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/samam2.png" alt="SaMam" style="width: 300px; height: 180px;" >
@@ -87,17 +112,6 @@ My current research interests include low-level vision, specifically image/video
 
 
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="/images/tip_teaserfig.png" alt="SaMST" style="width: 300px; height: 180px;" >
-    <div>
-      <strong>POSITION: Open World 3D Scene CAD Recomposition</strong><br/>
-      <span style="color: red;">TIP 2026</span><br/>
-      <em>Rongkun Yang, <strong>Hongda Liu</strong>, Yijun Chen, Sheng Ao, Yongjian Zhang, Longguang Wang, Kaiwen Xue, Shunbo Zhou, Yulan Guo</em><br/>
-      <a href="https://ieeexplore.ieee.org/abstract/document/11456836">[paper]</a> 
-      <a href="https://github.com/yangrongkun/POSITION">[code]</a>
-    </div>
-  </div>
-
   
 
 
@@ -116,15 +130,9 @@ My current research interests include low-level vision, specifically image/video
 
 
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="/images/SFLAM.png" alt="SFLAM" style="width: 300px; height: 180px;" >
-    <div>
-      <strong>Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning</strong><br/>
-      <span style="color: red;">Arxiv 2024</span><br/>
-      <em>Xianke Qiang, <strong>Hongda Liu</strong>, Xinran Zhang, Zheng Chang, Ying-Chang Liang</em><br/>
-      <a href="https://arxiv.org/abs/2504.09114">[paper]</a> 
-    </div>
-  </div>
+
+
+  
   
 </div>
 
