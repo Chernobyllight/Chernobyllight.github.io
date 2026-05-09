@@ -137,6 +137,32 @@ My current research interests include low-level vision, specifically image/video
 </div>
 
 
+
+
+## :wrench: Selected Projects
+
+<div style="display: flex; flex-direction: column; gap: 42px;">
+
+
+  
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="/images/PhotoDM_fig.png" alt="SaMST" style="width: 300px; height: 180px;" >
+    <div>
+      <strong>PhotoDM: High-Fidelity Photorealistic Style Transfer via Pyramidal High-Frequency Autoencoder and Exact Distribution Matching</strong><br/>
+      <a href="https://github.com/Chernobyllight/PhotoDM">[code]</a> 
+    </div>
+  </div>
+  
+
+  
+
+  
+</div>
+
+
+
+
 ## :computer: Internship
 
 
