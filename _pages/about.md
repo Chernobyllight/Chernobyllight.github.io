@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently in my third year of pursuing a master degree at [Spatial Artificial Intelligence Lab](https://sysu-sail.net/) (SAIL), Sun Yat-sen University (SYSU). My advisors are [Yulan Guo](https://www.yulanguo.cn/) and [Longguang Wang](https://longguangwang.github.io/). I received my B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC) in 2023.
+Hi! I am currently in my third year of pursuing a master's degree at [Spatial Artificial Intelligence Lab](https://sysu-sail.net/) (SAIL), Sun Yat-sen University (SYSU). My advisors are [Yulan Guo](https://www.yulanguo.cn/) and [Longguang Wang](https://longguangwang.github.io/). I received my B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC) in 2023.
 
 My current research interests include low-level vision, specifically image/video restoration, as well as image/video style transfer. Besides, I have extensive experience in image/video generation and editing.
 
@@ -20,7 +20,7 @@ My current research interests include low-level vision, specifically image/video
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/sysu.png" alt="sysu" style="width: 150px;" >
     <div>
-      <em>2023.09 - 2026.06 (expected)</em><br/>
+      <em>2023.09 - 2026.06</em><br/>
       <a href="https://sysu-sail.net/">Spatial Artificial Intelligence Lab</a> (SAIL), Sun Yat-sen University (SYSU)<br/>
       <strong>Master of Science (M.S.)</strong>
     </div>
