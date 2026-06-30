@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Sun Yat-sen University (SYSU), 2026 (expected)
+* M.S. in Sun Yat-sen University (SYSU), 2026
 * B.S. in University of Electronic Science and Technology of China (UESTC), 2023
 
 
