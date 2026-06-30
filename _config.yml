@@ -26,11 +26,11 @@ author:
   avatar           : "my_photo.png"
   name             : "Hongda Liu (Claude)"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher of Low-level Vision"
-  location         : "Shenzhen, China"
-  employer         : "Sun Yat-sen University"
+  bio              : "Researcher of Computer Vision"
+  location         : "Chengdu, China"
+  employer         : "SenseTime"
   uri              : #
-  email            : "liuhd36@mail2.sysu.edu.cn" 
+  email            : "liuhongda@sensetime.com" 
 
   # Academic websites
   academia         : # URL
