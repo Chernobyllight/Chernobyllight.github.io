@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Now, I am serving as a Computer Vision Algorithm Researcher at SenseTime Research Institute.
+Now, I am serving as a Computer Vision Algorithm Researcher at SenseTime Research.
 
-I received my M.S. degree at [Spatial Artificial Intelligence Lab](https://sysu-sail.net/) (SAIL), Sun Yat-sen University (SYSU). My advisors are [Yulan Guo](https://www.yulanguo.cn/) and [Longguang Wang](https://longguangwang.github.io/). I received my B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC) in 2023.
+Befor that, I received my M.S. degree at [Spatial Artificial Intelligence Lab](https://sysu-sail.net/) (SAIL), Sun Yat-sen University (SYSU). My advisors are [Yulan Guo](https://www.yulanguo.cn/) and [Longguang Wang](https://longguangwang.github.io/). I received my B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC) in 2023.
 
 My research interests include low-level vision, specifically image/video restoration, as well as image/video style transfer. Besides, I have extensive experience in image/video generation and editing.
 
