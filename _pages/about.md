@@ -43,6 +43,8 @@ My research interests include low-level vision, specifically image/video restora
 
 ## :fire: News
 
+- *2026.06*: I joined SenseTime as an Algorithm Researcher, focusing on inference, compression, and training optimization for VLMs.
+
 - *2026.04*: :tada::tada: One paper ([SFLAM](https://arxiv.org/pdf/2504.09114?)) was accepted by TMC 2026.
 
 - *2026.03*: :tada::tada: One paper ([POSITION](https://ieeexplore.ieee.org/abstract/document/11456836)) was accepted by TIP 2026.
