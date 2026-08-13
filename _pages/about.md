@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Now, I am serving as a Computer Vision Algorithm Researcher at SenseTime Research.
+Now, I am serving as an Algorithm Researcher at SenseTime Research.
 
 Before that, I received my M.S. degree at [Spatial Artificial Intelligence Lab](https://sysu-sail.net/) (SAIL), Sun Yat-sen University (SYSU). My advisors are [Yulan Guo](https://www.yulanguo.cn/) and [Longguang Wang](https://longguangwang.github.io/). I received my B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC) in 2023.
 
@@ -43,7 +43,7 @@ My research interests include low-level vision, specifically image/video restora
 
 ## :fire: News
 
-- *2026.06*: :tada::tada: I joined SenseTime as an Algorithm Researcher, focusing on inference, compression, and training optimization for VLMs.
+- *2026.06*: :tada::tada: I joined SenseTime Research as an Algorithm Researcher, focusing on inference, compression, and training optimization for VLMs.
 
 - *2026.04*: :tada::tada: One paper ([SFLAM](https://arxiv.org/pdf/2504.09114?)) was accepted by TMC 2026.
 
