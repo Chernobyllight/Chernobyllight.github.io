@@ -149,7 +149,7 @@ My research interests include low-level vision, specifically image/video restora
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/lightx2v.svg" alt="LightX2V inference framework" style="width: 300px; height: 180px;" >
     <div>
-      <strong>LightX2V: Light Image Video Generation Inference Framework</strong><br/>
+      <strong>LightX2V: Light Image&Video Generation Inference Framework</strong><br/>
       An efficient image and video generation inference framework.<br/>
       As a primary developer, I focus on model integration and inference optimization. Recent work includes HunyuanImage-3.0, BAGEL, and SenseNova-Vision.<br/>
       <a href="https://github.com/ModelTC/LightX2V">[code]</a>
