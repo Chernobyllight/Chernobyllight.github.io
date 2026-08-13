@@ -1,0 +1,147 @@
+/* ==========================================================================
+   HOMEPAGE REFINEMENTS
+   ========================================================================== */
+
+/* Keep the existing Academic Pages layout while giving the homepage a quieter
+   palette and more consistent content rhythm. */
+html.homepage:not([data-theme="dark"]) {
+  --global-bg-color: #fbfbfa;
+  --global-footer-bg-color: #f2f3f2;
+  --global-border-color: #dde1e0;
+  --global-dark-border-color: #c5cac8;
+  --global-link-color: #315f78;
+  --global-link-color-hover: #183f55;
+  --global-link-color-visited: #526a78;
+  --global-masthead-link-color: #252b2e;
+  --global-masthead-link-color-hover: #315f78;
+  --global-text-color: #2b3033;
+  --global-text-color-light: #737b80;
+}
+
+html.homepage[data-theme="dark"] {
+  --global-base-color: #202527;
+  --global-bg-color: #171a1b;
+  --global-footer-bg-color: #1d2122;
+  --global-border-color: #343a3c;
+  --global-dark-border-color: #485053;
+  --global-code-background-color: #202527;
+  --global-code-text-color: #dfe3e2;
+  --global-fig-caption-color: #aeb5b3;
+  --global-link-color: #83a9b7;
+  --global-link-color-hover: #b7d0d9;
+  --global-link-color-visited: #9baeb5;
+  --global-masthead-link-color: #e1e5e4;
+  --global-masthead-link-color-hover: #9bbac5;
+  --global-text-color: #e1e5e4;
+  --global-text-color-light: #aeb5b3;
+  --global-thead-color: #252a2c;
+}
+
+.homepage {
+  .masthead__inner-wrap {
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+  }
+
+  #main {
+    margin-top: 2.25em;
+  }
+
+  .page__content {
+    line-height: 1.62;
+
+    h2 {
+      margin-top: 2.25em;
+      padding-bottom: 0.55em;
+      letter-spacing: -0.01em;
+    }
+
+    a {
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.14em;
+    }
+
+    span[style*="color: red"],
+    font[color="red"] {
+      color: #8b4a42 !important;
+    }
+  }
+
+  .author__avatar img {
+    border-color: var(--global-border-color);
+  }
+
+  .home-list--education {
+    gap: 2.25rem !important;
+
+    > div {
+      gap: 0.875rem !important;
+    }
+
+    > div > img {
+      object-fit: contain;
+    }
+  }
+
+  .home-list--media {
+    gap: 2rem !important;
+
+    > div {
+      gap: 1.25rem !important;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--global-border-color);
+    }
+
+    > div:last-child {
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+
+    > div > img {
+      flex: 0 0 300px;
+      object-fit: contain;
+      border: 1px solid var(--global-border-color);
+      border-radius: 2px;
+      background: var(--global-code-background-color);
+    }
+
+    > div > div {
+      min-width: 0;
+      line-height: 1.55;
+    }
+  }
+
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    .sidebar {
+      border-right: 1px solid var(--global-border-color);
+    }
+  }
+
+  @media screen and (max-width: $medium) {
+    .home-list--education > div,
+    .home-list--media > div {
+      flex-direction: column;
+      align-items: flex-start !important;
+      gap: 0.85rem !important;
+    }
+
+    .home-list--education > div > img {
+      width: 140px !important;
+      height: auto !important;
+    }
+
+    .home-list--media > div > img {
+      width: 100% !important;
+      height: auto !important;
+      max-width: 420px;
+      aspect-ratio: 5 / 3;
+    }
+  }
+}
+
+html.homepage[data-theme="dark"] .page__content {
+  span[style*="color: red"],
+  font[color="red"] {
+    color: #d08d83 !important;
+  }
+}

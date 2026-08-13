@@ -17,7 +17,7 @@ My research interests include low-level vision, specifically image/video restora
 
 
 
-<div style="display: flex; flex-direction: column; gap: 42px;">
+<div class="home-list home-list--education" style="display: flex; flex-direction: column; gap: 42px;">
   
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/sysu.png" alt="sysu" style="width: 150px;" >
@@ -60,7 +60,7 @@ My research interests include low-level vision, specifically image/video restora
 
 
 
-<div style="display: flex; flex-direction: column; gap: 42px;">
+<div class="home-list home-list--media" style="display: flex; flex-direction: column; gap: 42px;">
 
     <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/images/SFLAM.png" alt="SFLAM" style="width: 300px; height: 180px;" >
@@ -143,7 +143,21 @@ My research interests include low-level vision, specifically image/video restora
 
 ## :wrench: Selected Projects
 
-<div style="display: flex; flex-direction: column; gap: 42px;">
+<div class="home-list home-list--media home-list--projects" style="display: flex; flex-direction: column; gap: 42px;">
+
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="/images/lightx2v.svg" alt="LightX2V inference framework" style="width: 300px; height: 180px;" >
+    <div>
+      <strong>LightX2V: Light Image Video Generation Inference Framework</strong><br/>
+      An efficient image and video generation inference framework.<br/>
+      As a primary developer, I focus on model integration and inference optimization. Recent work includes HunyuanImage-3.0, BAGEL, and SenseNova-Vision.<br/>
+      <a href="https://github.com/ModelTC/LightX2V">[code]</a>
+      <a href="https://github.com/ModelTC/LightX2V/tree/main/scripts/hunyuan_image3">[HunyuanImage-3.0]</a>
+      <a href="https://github.com/ModelTC/LightX2V/tree/main/scripts/bagel">[BAGEL]</a>
+      <a href="https://github.com/ModelTC/LightX2V/tree/main/scripts/sensenova_vision">[SenseNova-Vision]</a>
+    </div>
+  </div>
 
 
   
