@@ -11,7 +11,7 @@ Now, I am serving as an Algorithm Researcher at SenseTime Research.
 
 Before that, I received my M.S. degree at [Spatial Artificial Intelligence Lab](https://sysu-sail.net/) (SAIL), Sun Yat-sen University (SYSU). My advisors are [Yulan Guo](https://www.yulanguo.cn/) and [Longguang Wang](https://longguangwang.github.io/). I received my B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC) in 2023.
 
-My research focuses on efficient vision foundation models, particularly inference acceleration, model compression, and training optimization. I also have extensive experience in image and video generation and editing, as well as low-level vision and computational photography.
+My research focuses on efficient Vison-Language Models (VLMs), particularly inference acceleration, model compression, and training optimization. I also have extensive experience in image and video generation and editing, as well as low-level vision and computational photography.
 
 ## :book: Education
 
