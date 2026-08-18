@@ -11,32 +11,88 @@ Now, I am serving as an Algorithm Researcher at SenseTime Research.
 
 Before that, I received my M.S. degree at [Spatial Artificial Intelligence Lab](https://sysu-sail.net/) (SAIL), Sun Yat-sen University (SYSU). My advisors are [Yulan Guo](https://www.yulanguo.cn/) and [Longguang Wang](https://longguangwang.github.io/). I received my B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC) in 2023.
 
-My research focuses on efficient Vison-Language Models (VLMs), particularly inference acceleration, model compression, and training optimization. I also have extensive experience in image and video generation and editing, as well as low-level vision and computational photography.
+My research focuses on efficient Vision-Language Models (VLMs), particularly inference acceleration, model compression, and training optimization. I also have extensive experience in image and video generation and editing, as well as low-level vision and computational photography.
+
+## :briefcase: Work Experience
+
+<div class="home-list home-list--affiliations home-list--work">
+  <article class="home-entry" aria-labelledby="work-sensetime">
+    <div class="home-entry__logo-frame">
+      <img class="home-entry__logo" src="{{ '/images/companies/sensetime.png' | relative_url }}" alt="" width="2105" height="592" decoding="async">
+    </div>
+    <div class="home-entry__body">
+      <p class="home-entry__period"><time datetime="2026-06">2026.06</time> &ndash; Present</p>
+      <h3 class="home-entry__organization" id="work-sensetime">SenseTime Research</h3>
+      <p class="home-entry__role">Algorithm Researcher</p>
+      <p class="home-entry__details">Efficient Vision-Language Models (VLMs), with a focus on inference acceleration, model compression, and training optimization.</p>
+    </div>
+  </article>
+</div>
 
 ## :book: Education
 
-
-
-<div class="home-list home-list--education" style="display: flex; flex-direction: column; gap: 42px;">
-  
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="/images/sysu.png" alt="sysu" style="width: 150px;" >
-    <div>
-      <em>2023.09 - 2026.06</em><br/>
-      <a href="https://sysu-sail.net/">Spatial Artificial Intelligence Lab</a> (SAIL), Sun Yat-sen University (SYSU)<br/>
-      <strong>Master of Science (M.S.)</strong>
+<div class="home-list home-list--affiliations home-list--education">
+  <article class="home-entry" aria-labelledby="education-sysu">
+    <div class="home-entry__logo-frame">
+      <img class="home-entry__logo" src="{{ '/images/sysu.png' | relative_url }}" alt="" width="2048" height="2048" decoding="async">
     </div>
-  </div>
-  
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="/images/uestc.png" alt="uestc" style="width: 150px;" >
-    <div>
-      <em>2019.09 - 2023.06</em><br/>
-      University of Electronic Science and Technology of China (UESTC)<br/>
-      <strong>Bachelor of Science (B.S.)</strong>
+    <div class="home-entry__body">
+      <p class="home-entry__period"><time datetime="2023-09">2023.09</time> &ndash; <time datetime="2026-06">2026.06</time></p>
+      <h3 class="home-entry__organization" id="education-sysu"><a href="https://sysu-sail.net/">Spatial Artificial Intelligence Lab</a> (SAIL), Sun Yat-sen University (SYSU)</h3>
+      <p class="home-entry__role">Master of Science (M.S.)</p>
     </div>
-  </div>
-  
+  </article>
+
+  <article class="home-entry" aria-labelledby="education-uestc">
+    <div class="home-entry__logo-frame">
+      <img class="home-entry__logo" src="{{ '/images/uestc.png' | relative_url }}" alt="" width="2048" height="2044" decoding="async">
+    </div>
+    <div class="home-entry__body">
+      <p class="home-entry__period"><time datetime="2019-09">2019.09</time> &ndash; <time datetime="2023-06">2023.06</time></p>
+      <h3 class="home-entry__organization" id="education-uestc">University of Electronic Science and Technology of China (UESTC)</h3>
+      <p class="home-entry__role">Bachelor of Science (B.S.)</p>
+    </div>
+  </article>
+</div>
+
+## :computer: Internship Experience
+
+<div class="home-list home-list--affiliations home-list--internship">
+  <article class="home-entry" aria-labelledby="internship-huawei-lms">
+    <div class="home-entry__logo-frame">
+      <img class="home-entry__logo" src="{{ '/images/companies/huawei.svg' | relative_url }}" alt="" width="136" height="137" decoding="async">
+    </div>
+    <div class="home-entry__body">
+      <p class="home-entry__period"><time datetime="2025-07">2025.07</time> &ndash; <time datetime="2025-09">2025.09</time></p>
+      <h3 class="home-entry__organization" id="internship-huawei-lms">Huawei Cloud</h3>
+      <p class="home-entry__role">AI Development Engineer</p>
+      <p class="home-entry__details"><a href="https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html">Long-term Memory Service Group</a> (LMS), Chengdu<br/>Large Language Model and Vector Database</p>
+    </div>
+  </article>
+
+  <article class="home-entry" aria-labelledby="internship-tencent-pcg">
+    <div class="home-entry__logo-frame">
+      <img class="home-entry__logo" src="{{ '/images/companies/tencent.png' | relative_url }}" alt="" width="1915" height="889" decoding="async">
+    </div>
+    <div class="home-entry__body">
+      <p class="home-entry__period"><time datetime="2025-04">2025.04</time> &ndash; <time datetime="2025-07">2025.07</time></p>
+      <h3 class="home-entry__organization" id="internship-tencent-pcg">Tencent</h3>
+      <p class="home-entry__role">Computer Vision Algorithm Engineer</p>
+      <p class="home-entry__details"><a href="https://topd.tencent.com/career/company/tencent/PCG">Platform and Content Group</a> (PCG), Shenzhen<br/>Image/Video Generation and Editing</p>
+    </div>
+  </article>
+
+  <article class="home-entry" aria-labelledby="internship-huawei-pi">
+    <div class="home-entry__logo-frame">
+      <img class="home-entry__logo" src="{{ '/images/companies/huawei.svg' | relative_url }}" alt="" width="136" height="137" decoding="async">
+    </div>
+    <div class="home-entry__body">
+      <p class="home-entry__period"><time datetime="2024-08">2024.08</time> &ndash; <time datetime="2024-12">2024.12</time></p>
+      <h3 class="home-entry__organization" id="internship-huawei-pi">Huawei Cloud</h3>
+      <p class="home-entry__role">Computer Vision Algorithm Engineer</p>
+      <p class="home-entry__details"><a href="https://www.huaweicloud.com/lab/embodied-ai/about.html">Physical Intelligence Lab</a>, Shenzhen<br/>3D Scene Alignment and Reconstruction<br/>Advisor: <a href="https://scholar.google.com/citations?user=0mRilxMAAAAJ&amp;hl=zh-EN">Kaiwen Xue</a></p>
+    </div>
+  </article>
 </div>
 
 
@@ -170,38 +226,5 @@ My research focuses on efficient Vison-Language Models (VLMs), particularly infe
       <a href="https://github.com/Chernobyllight/PhotoDM">[code]</a> 
     </div>
   </div>
-  
-
-  
-
-  
 </div>
-
-
-
-
-## :computer: Internship
-
-
-- *2025.07 - 2025.09*, Huawei Cloud, [Long-term Memory Service Group](https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html) (LMS), Chengdu
-  - AI Development Engineer (Large Language Model, Vector Database)
-
-
-- *2025.04 - 2025.07*, Tencent, [Platform and Content Group](https://topd.tencent.com/career/company/tencent/PCG) (PCG), Shenzhen
-  - Computer Vision Algorithm Engineer (Image/Video Generation and Editing)
- 
-
-- *2024.08 - 2024.12*, Huawei Cloud, [Physical Intelligence Lab](https://www.huaweicloud.com/lab/embodied-ai/about.html), Shenzhen
-  - Computer Vision Algorithm Engineer (3D Scene Alignment and Reconstruction)
-  - Advisor: [Kaiwen Xue](https://scholar.google.com/citations?user=0mRilxMAAAAJ&hl=zh-EN)
-
-
-
-
-
-
-
-
-
-
     

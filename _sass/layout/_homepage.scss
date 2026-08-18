@@ -71,16 +71,84 @@ html.homepage[data-theme="dark"] {
     border-color: var(--global-border-color);
   }
 
-  .home-list--education {
-    gap: 2.25rem !important;
+  .home-list--affiliations {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
 
-    > div {
-      gap: 0.875rem !important;
+  .home-entry {
+    display: grid;
+    grid-template-columns: 9.5rem minmax(0, 1fr);
+    align-items: center;
+    gap: 1.25rem;
+    padding: 1.35rem 0;
+    border-bottom: 1px solid var(--global-border-color);
+
+    &:first-child {
+      padding-top: 0;
     }
 
-    > div > img {
-      object-fit: contain;
+    &:last-child {
+      padding-bottom: 0;
+      border-bottom: 0;
     }
+  }
+
+  .home-entry__logo-frame {
+    box-sizing: border-box;
+    width: 9.5rem;
+    height: 5.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.65rem;
+    overflow: hidden;
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+    background: #fff;
+  }
+
+  .home-entry__logo {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  .home-entry__body {
+    min-width: 0;
+    line-height: 1.55;
+    overflow-wrap: anywhere;
+  }
+
+  .home-entry__period,
+  .home-entry__role,
+  .home-entry__details {
+    margin: 0;
+  }
+
+  .home-entry__period {
+    color: var(--global-text-color-light);
+    font-size: 0.9em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .home-entry__organization {
+    margin: 0.15rem 0 0.2rem;
+    font-size: 1rem;
+    line-height: 1.35;
+  }
+
+  .home-entry__role {
+    font-weight: 600;
+  }
+
+  .home-entry__details {
+    margin-top: 0.2rem;
   }
 
   .home-list--media {
@@ -118,16 +186,10 @@ html.homepage[data-theme="dark"] {
   }
 
   @media screen and (max-width: $medium) {
-    .home-list--education > div,
     .home-list--media > div {
       flex-direction: column;
       align-items: flex-start !important;
       gap: 0.85rem !important;
-    }
-
-    .home-list--education > div > img {
-      width: 140px !important;
-      height: auto !important;
     }
 
     .home-list--media > div > img {
@@ -135,6 +197,20 @@ html.homepage[data-theme="dark"] {
       height: auto !important;
       max-width: 420px;
       aspect-ratio: 5 / 3;
+    }
+  }
+
+  @media screen and (max-width: $small) {
+    .home-entry {
+      grid-template-columns: minmax(0, 1fr);
+      align-items: start;
+      gap: 0.85rem;
+    }
+
+    .home-entry__logo-frame {
+      width: 9rem;
+      max-width: 100%;
+      height: 5rem;
     }
   }
 }
