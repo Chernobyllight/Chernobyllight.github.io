@@ -85,7 +85,7 @@ My research focuses on efficient Vision-Language Models (VLMs), particularly inf
     <div class="home-affiliation__body" style="min-width: 0; flex: 1 1 auto; line-height: 1.5;">
       <em><time datetime="2025-07">2025.07</time> &ndash; <time datetime="2025-09">2025.09</time></em><br/>
       <strong>Huawei Cloud</strong><br/>
-      <strong>AI Development Engineer</strong><br/>
+      <span style="color: red;">AI Development Engineer</span><br/>
       <a href="https://support.huaweicloud.com/productdesc-lms/lms_01_0300.html">Long-term Memory Service Group</a> (LMS), Chengdu<br/>
       Large Language Model and Vector Database
     </div>
@@ -98,7 +98,7 @@ My research focuses on efficient Vision-Language Models (VLMs), particularly inf
     <div class="home-affiliation__body" style="min-width: 0; flex: 1 1 auto; line-height: 1.5;">
       <em><time datetime="2025-04">2025.04</time> &ndash; <time datetime="2025-07">2025.07</time></em><br/>
       <strong>Tencent</strong><br/>
-      <strong>Computer Vision Algorithm Engineer</strong><br/>
+      <span style="color: red;">Computer Vision Algorithm Engineer</span><br/>
       <a href="https://topd.tencent.com/career/company/tencent/PCG">Platform and Content Group</a> (PCG), Shenzhen<br/>
       Image/Video Generation and Editing
     </div>
@@ -111,7 +111,7 @@ My research focuses on efficient Vision-Language Models (VLMs), particularly inf
     <div class="home-affiliation__body" style="min-width: 0; flex: 1 1 auto; line-height: 1.5;">
       <em><time datetime="2024-08">2024.08</time> &ndash; <time datetime="2024-12">2024.12</time></em><br/>
       <strong>Huawei Cloud</strong><br/>
-      <strong>Computer Vision Algorithm Engineer</strong><br/>
+      <span style="color: red;">Computer Vision Algorithm Engineer</span><br/>
       <a href="https://www.huaweicloud.com/lab/embodied-ai/about.html">Physical Intelligence Lab</a>, Shenzhen<br/>
       3D Scene Alignment and Reconstruction<br/>
       Advisor: <a href="https://scholar.google.com/citations?user=0mRilxMAAAAJ&amp;hl=zh-EN">Kaiwen Xue</a>
