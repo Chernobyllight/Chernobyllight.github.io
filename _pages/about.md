@@ -43,7 +43,7 @@ My research focuses on efficient Vision-Language Models (VLMs), particularly inf
     <div class="home-affiliation__body" style="min-width: 0; flex: 1 1 auto; line-height: 1.5;">
       <em><time datetime="2026-06">2026.06</time> &ndash; Present</em><br/>
       <strong>SenseTime Research</strong><br/>
-      <strong>Algorithm Researcher</strong><br/>
+      <span style="color: red;">Algorithm Researcher</span><br/>
       Efficient Vision-Language Models (VLMs), with a focus on inference acceleration, model compression, and training optimization.
     </div>
   </div>
