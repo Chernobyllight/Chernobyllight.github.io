@@ -13,6 +13,26 @@ Before that, I received my M.S. degree at [Spatial Artificial Intelligence Lab](
 
 My research focuses on efficient Vision-Language Models (VLMs), particularly inference acceleration, model compression, and training optimization. I also have extensive experience in image and video generation and editing, as well as low-level vision and computational photography.
 
+
+
+## :fire: News
+
+- *2026.06*: :tada::tada: I joined SenseTime Research as an Algorithm Researcher, focusing on inference, compression, and training optimization for VLMs.
+
+- *2026.04*: :tada::tada: One paper ([SFLAM](https://arxiv.org/pdf/2504.09114?)) was accepted by TMC 2026.
+
+- *2026.03*: :tada::tada: One paper ([POSITION](https://ieeexplore.ieee.org/abstract/document/11456836)) was accepted by TIP 2026.
+
+- *2025.07*: :tada::tada: I was invited to be a reviewer of International Journal of Computer Vision (IJCV). I am happy to serve as a peer reviewer for conferences/journals/transactions. Feel free to contact [me](mailto:2946428816@qq.com).
+
+- *2025.02*: :tada::tada: One paper ([SaMam](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)) was accepted by CVPR 2025 (<font color=red>Highlight, top 3%</font>).
+
+- *2024.10*: :tada::tada: One paper ([SaMST](https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html)) was accepted by ACCV 2024.
+
+- *2024.03*: :tada::tada: As a member of the organizing committee, I organized NTIRE 2024 Stereo Image Super-Resolution Challenge ([[Track 1 Constrained SR & Bicubic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17245)] & [[Track 2 Constrained SR & Realistic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17246)]). You can read our technical report [here](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html).
+
+
+
 ## :briefcase: Work Experience
 
 <div class="home-list home-list--affiliations home-list--work" style="display: flex; flex-direction: column; gap: 28px;">
@@ -100,22 +120,6 @@ My research focuses on efficient Vision-Language Models (VLMs), particularly inf
 </div>
 
 
-
-## :fire: News
-
-- *2026.06*: :tada::tada: I joined SenseTime Research as an Algorithm Researcher, focusing on inference, compression, and training optimization for VLMs.
-
-- *2026.04*: :tada::tada: One paper ([SFLAM](https://arxiv.org/pdf/2504.09114?)) was accepted by TMC 2026.
-
-- *2026.03*: :tada::tada: One paper ([POSITION](https://ieeexplore.ieee.org/abstract/document/11456836)) was accepted by TIP 2026.
-
-- *2025.07*: :tada::tada: I was invited to be a reviewer of International Journal of Computer Vision (IJCV). I am happy to serve as a peer reviewer for conferences/journals/transactions. Feel free to contact [me](mailto:2946428816@qq.com).
-
-- *2025.02*: :tada::tada: One paper ([SaMam](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.html)) was accepted by CVPR 2025 (<font color=red>Highlight, top 3%</font>).
-
-- *2024.10*: :tada::tada: One paper ([SaMST](https://openaccess.thecvf.com/content/ACCV2024/html/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.html)) was accepted by ACCV 2024.
-
-- *2024.03*: :tada::tada: As a member of the organizing committee, I organized NTIRE 2024 Stereo Image Super-Resolution Challenge ([[Track 1 Constrained SR & Bicubic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17245)] & [[Track 2 Constrained SR & Realistic Degradation](https://codalab.lisn.upsaclay.fr/competitions/17246)]). You can read our technical report [here](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wang_NTIRE_2024_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2024_paper.html).
 
 
 ## :books: Selected Publications
